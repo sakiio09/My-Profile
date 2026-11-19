@@ -19,7 +19,7 @@
 
 <p>
   A 19yrs old college student of NU Clark who has a lot of passion for gaming, getting rich, and wants to make his parents proud. A simple 
-  person who aspires to be in the gaming development industry, loves programming but hate it the the same time, travelling, and exploring new things.
+  person who aspires to be in the gaming development industry, loves programming but hate it the same time, loves travelling, and want to exploring new things.
 </p>
 
 ---
