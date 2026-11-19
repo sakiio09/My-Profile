@@ -61,5 +61,5 @@
 ---
 
 <p align="center">
-  <sub>No one can reach the summit if they dont start at the bottom.</sub>
+  <i>"No summit is reached without the courage to begin."</i>
 </p>
