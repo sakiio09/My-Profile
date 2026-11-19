@@ -15,12 +15,12 @@
 
 ---
 
-<h3>ABOUT</h3>
+<h3>ABOUT ME</h3>
 
 <p>
-  Interested in game development, programming,
+  A 19yrs old college student of NU Clark who has a lot of passion for gaming, getting rich, and wants to make his parents proud. A simple 
+  person who is interested in game development, programming,
   travelling, and exploring new things.
-  Also a big fan of food.
 </p>
 
 ---
