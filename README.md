@@ -19,8 +19,7 @@
 
 <p>
   A 19yrs old college student of NU Clark who has a lot of passion for gaming, getting rich, and wants to make his parents proud. A simple 
-  person who is interested in game development, programming,
-  travelling, and exploring new things.
+  person who aspires to be in the gaming development industry, loves programming but hate it the the same time, travelling, and exploring new things.
 </p>
 
 ---
@@ -56,9 +55,11 @@
 - Learn more languages
 - Develop my first game
 - Build personal projects
+- Build connections around the world
+- Get rich and live a happy life with my wife and kids
 
 ---
 
 <p align="center">
-  <sub>Building things, one line at a time.</sub>
+  <sub>No one can reach the summit if they dont start at the bottom.</sub>
 </p>
