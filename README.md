@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sakiio09/my-picture"
+  <img src="https://github.com/sakiio09.png"
        width="140"
        alt="Rainn's Profile Picture">
 </p>
