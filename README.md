@@ -47,6 +47,12 @@
 
 [View Project ↗](https://github.com/sakiio09/ITE102/blob/main/LABTASKS/MIDTERM/LBTSK1/LABTASK%202.pdf)
 
+**03 / Midterm Lab Task #3**
+
+[View Project ↗](https://github.com/sakiio09/ITE102/blob/main/LABTASKS/MIDTERM/LBTSK1/OMILA_RAINNACHYLLE_LABTASK3.pdf)
+
+`JAVA` `METHODS`
+
 ---
 
 <h3>GOALS</h3>
